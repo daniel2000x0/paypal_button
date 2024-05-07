@@ -1,0 +1,12 @@
+body { 
+    display: block;
+    margin: 8px;
+    background-color: aquamarine;
+  }
+  .container{
+  position: relative;
+   align-items: center;
+   padding-top: 20%;
+   padding-left: 30%;
+
+  }
